@@ -1,4 +1,4 @@
-<img width="580" alt="코테준비모임" src="https://github.com/Growth-Study-Dongguk-20/.github/assets/114139700/c7fa36fc-e3d4-473f-a4d5-0f9b7a14e309">
+<img width="480" alt="코테준비모임" src="https://github.com/Growth-Study-Dongguk-20/.github/assets/114139700/c7fa36fc-e3d4-473f-a4d5-0f9b7a14e309">
 
 ## ✏️ Study Rule
 1. 매주 월요일 오후 2시 비대면으로 회의를 진행한다.
